@@ -1,2 +1,3 @@
-# TEOS-MINER-TELEGRAM-BOT
-Repository created autonomously  by Elmahrosa International 
+# TEOS Miner Telegram Bot
+
+Telegram bot for mining $TEOS with race game, referral system, and petition integration.
